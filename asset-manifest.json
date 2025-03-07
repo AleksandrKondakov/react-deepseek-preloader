@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-deepseek-preloader/static/css/main.2d9e013c.css",
+    "main.js": "/react-deepseek-preloader/static/js/main.0098c372.js",
+    "index.html": "/react-deepseek-preloader/index.html",
+    "main.2d9e013c.css.map": "/react-deepseek-preloader/static/css/main.2d9e013c.css.map",
+    "main.0098c372.js.map": "/react-deepseek-preloader/static/js/main.0098c372.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d9e013c.css",
+    "static/js/main.0098c372.js"
+  ]
+}
